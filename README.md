@@ -2,7 +2,7 @@
 
 # Jank
 
-`
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -32,7 +32,8 @@
 
 </body>
 </html>
-`
+
+```
 
 
 https://github.com/user-attachments/assets/b9b8cfec-6e9d-4bfd-b1a8-29102ddbc69b
